@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+ddc2dd7f303833bb57bcd49a8de60ce8 E:/protobuf-3.3.0/src/google/protobuf/compiler/js/well_known_types_embed.cc

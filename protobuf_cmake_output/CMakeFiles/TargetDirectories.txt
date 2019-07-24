@@ -1,0 +1,11 @@
+E:/protobuf_cmake_output/CMakeFiles/list_install_components.dir
+E:/protobuf_cmake_output/CMakeFiles/libprotobuf-lite.dir
+E:/protobuf_cmake_output/CMakeFiles/protoc.dir
+E:/protobuf_cmake_output/CMakeFiles/libprotoc.dir
+E:/protobuf_cmake_output/CMakeFiles/libprotobuf.dir
+E:/protobuf_cmake_output/CMakeFiles/install.dir
+E:/protobuf_cmake_output/CMakeFiles/js_embed.dir
+E:/protobuf_cmake_output/CMakeFiles/edit_cache.dir
+E:/protobuf_cmake_output/CMakeFiles/rebuild_cache.dir
+E:/protobuf_cmake_output/CMakeFiles/install/local.dir
+E:/protobuf_cmake_output/CMakeFiles/install/strip.dir
